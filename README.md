@@ -55,6 +55,3 @@ gibi ozellikler yer alir.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfcmloztrk42-netizen&layout=compact&theme=default)
 
-## Not
-
-Projelerimde guvenlik benim icin onemli. Hassas bilgiler `.env` dosyalarinda veya ortam degiskenlerinde tutulur; GitHub'a gercek anahtar, token veya sifre yuklenmez.
